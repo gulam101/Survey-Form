@@ -1,0 +1,53 @@
+body {
+  margin: 0;
+  width: auto;
+  background-color: #f8f8ff;
+}
+
+#container {
+  padding-left: 16px;
+  padding-right: 16px;
+}
+
+/***Title**/
+
+.Title {
+  text-align: center;
+  font-size: 50px;
+  font-weight: bold;
+  font-family: 'Montserrat', sans-serif;
+}
+
+#description {
+  font-size: 24px;
+  text-align: center;
+}
+
+#survery-form {
+  font-size: 23px;
+  text-align: center;
+  margin: 0;
+  width: auto;
+}
+
+#width {
+  width: 55%;
+  text-align: right;
+}
+
+.eligible {
+  text-align: center;
+  font-size: 19px;
+  font-weight: bold;
+}
+
+.Rating {
+  padding-top: 10px;
+  padding-right: 50px;
+}
+
+.gender {
+  text-align: center;
+  margin: 0;
+  width: auto;
+}
