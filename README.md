@@ -16,7 +16,7 @@ The user loads the web page and then they fill in a survey. Once they have finis
 
 ### Constraints: ### 
 
-I didn't add any PHP to get it working.
+I didn't add any PHP to get it working. I also had an isse where some of the elements would overlap each other. In order to fix that problem I managed to use padding in CSS to fix that issue. After using that paddding it solved my problem and I no longer had any elements overlapping each other.
 
 Improvements: Like I said before, I didn't manage to get any PHP to work. If I want this survey to store information, then I can use PHP to get some of these functiosn to work.
 
