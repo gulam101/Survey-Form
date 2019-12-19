@@ -21,14 +21,5 @@ I didn't add any PHP to get it working. I also had an isse where some of the ele
 Improvements: Like I said before, I didn't manage to get any PHP to work. If I want this survey to store information, then I can use PHP to get some of these functiosn to work.
 
 
-
-
-
-
-
-Problems with the project:
-I had an issue where some things would overlap each other so I had to change measurements.
-I managed to fix an issue that caused the webpage to be different if the user changes the width and height.
-
-Things I will add in the future:
+### Things I will add in the future: ###
 I will add PHP and get it working
