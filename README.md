@@ -4,6 +4,9 @@
 
 Created using HTMl5 and CSS3. The design was to make a survey form on the FreeCodeCamp. The point of the project was to take everything we learnt and combine it into one big project. The design of the project was a simple template and I just followed the steps and changed things differently.
 
+![IMG001](https://user-images.githubusercontent.com/45819118/71164011-26122580-2246-11ea-9003-bc5bb10c2aaf.PNG)
+
+
 
 ### Things I did differently from the original design: ### 
 
