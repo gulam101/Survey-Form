@@ -27,4 +27,4 @@ Improvements: Like I said before, I didn't manage to get any PHP to work. If I w
 
 
 ### Things I will add in the future: ###
-I will add PHP and get it working
+I will add PHP to get the form to actually submit. Also another one thing is that the webpage seems to be cramped into one space. I will go ahead and change it so that the webpage will have space.
