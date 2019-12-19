@@ -19,6 +19,9 @@ I added my own CSS rather than use the inline CSS in the web. Since this was a t
 
 The user loads the web page and then they fill in a survey. Once they have finished completing the survey, they don't need to do anything else. The webpage will give the user a completion form which tells them they have completed the form and they don't need to do anything else. 
 
+### What I learnt:
+- Better understanding of HTML and CSS
+
 ### Constraints: ### 
 
 I didn't add any PHP to get it working. I also had an issue where some of the elements would overlap each other. In order to fix that problem, I managed to use padding in CSS to fix that issue. After using that padding it solved my problem and I no longer had any elements overlapping each other. Another constraint that I managed to overcome was that when the user resized the webpage it would cause the width and height to be
