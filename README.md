@@ -7,7 +7,7 @@ Created using HTMl5 and CSS3. The design was to make a survey form on the FreeCo
 
 ### Things I did differently from the original design: ### 
 
-I added my own CSS rather than use the inline css in the web. Since this was a tutorial from FreeCodeCamp I decided that I would change some parts to make my own version. I instead went for cleaner code rather than following the whole excample from FreeCodeCamp.
+I added my own CSS rather than use the inline CSS in the web. Since this was a tutorial from FreeCodeCamp I decided that I would change some parts to make my own version. I instead went for cleaner code rather than following the whole example from FreeCodeCamp.
 
 
 ### Instructions: ###
@@ -16,9 +16,9 @@ The user loads the web page and then they fill in a survey. Once they have finis
 
 ### Constraints: ### 
 
-I didn't add any PHP to get it working. I also had an isse where some of the elements would overlap each other. In order to fix that problem I managed to use padding in CSS to fix that issue. After using that paddding it solved my problem and I no longer had any elements overlapping each other. Another constraint that I managed to overcome was that when the user resized the webpage it would cause the wdith and height to be
+I didn't add any PHP to get it working. I also had an issue where some of the elements would overlap each other. In order to fix that problem, I managed to use padding in CSS to fix that issue. After using that padding it solved my problem and I no longer had any elements overlapping each other. Another constraint that I managed to overcome was that when the user resized the webpage it would cause the width and height to be
 
-Improvements: Like I said before, I didn't manage to get any PHP to work. If I want this survey to store information, then I can use PHP to get some of these functiosn to work.
+Improvements: Like I said before, I didn't manage to get any PHP to work. If I want this survey to store information, then I can use PHP to get some of these functions to work.
 
 
 ### Things I will add in the future: ###
