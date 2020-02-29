@@ -1,5 +1,7 @@
 # Survey-form
 
+## School Survey Form - HTML & CSS
+
 ### Description:
 
 Created using HTML5 and CSS3. The design was to make a survey form on the FreeCodeCamp. The point of the project was to take everything we learnt and combine it into one big project. The design of the project was a simple template and I just followed the steps and changed things differently.
